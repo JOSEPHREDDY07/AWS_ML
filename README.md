@@ -20,12 +20,5 @@ Feeling stuck amidst the course? Feel free to refer this repository or reach out
  &#9745; Means that the particular Chapter is completed 🎉
  
  
- ## Want to Contribute?
- Fork the repo and send PRs.
- 
- Do :star: this repository to keep a track of the course. 
- 
- Made with :heart: by [Shivansh](https://github.com/Shivansh2407)
- 
  
 
